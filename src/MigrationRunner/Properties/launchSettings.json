@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MigrationRunner": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

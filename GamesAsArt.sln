@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI.Client", "src\WebUI\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI.Shared", "src\WebUI\Shared\WebUI.Shared.csproj", "{E4D2B040-6D1F-4633-895F-5FBC26B325FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationRunner", "src\MigrationRunner\MigrationRunner.csproj", "{0EDCD861-DC3D-449B-8BC7-E6D3FB64F00F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,10 @@ Global
 		{E4D2B040-6D1F-4633-895F-5FBC26B325FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D2B040-6D1F-4633-895F-5FBC26B325FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D2B040-6D1F-4633-895F-5FBC26B325FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDCD861-DC3D-449B-8BC7-E6D3FB64F00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDCD861-DC3D-449B-8BC7-E6D3FB64F00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDCD861-DC3D-449B-8BC7-E6D3FB64F00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDCD861-DC3D-449B-8BC7-E6D3FB64F00F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +71,7 @@ Global
 		{1A23011C-C0A4-47C4-9ABD-B2732BC704DA} = {47470D9B-5564-414B-A106-59BE1E0E3FD4}
 		{D2567C98-1601-4A42-8309-03D30CE5ED45} = {47470D9B-5564-414B-A106-59BE1E0E3FD4}
 		{E4D2B040-6D1F-4633-895F-5FBC26B325FF} = {47470D9B-5564-414B-A106-59BE1E0E3FD4}
+		{0EDCD861-DC3D-449B-8BC7-E6D3FB64F00F} = {47470D9B-5564-414B-A106-59BE1E0E3FD4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A4989924-C5B0-4DC0-9D21-E4ACEA60C9FC}
